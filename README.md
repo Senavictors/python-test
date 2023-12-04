@@ -1,0 +1,1 @@
+Bot python criado para extrair informações de uma planilha excel e preencher um formulario de cadastramento na web ( https://cadastro-produtos-devaprender.netlify.app/index.html )
